@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live link
 
-Open [https://react-meme-generator-app.onrender.com/](https://react-meme-generator-app.onrender.com/) to view the hosted application.
+Open [https://react-meme-generator-app.onrender.com](https://react-meme-generator-app.onrender.com) to view the hosted application.
 
 
 
