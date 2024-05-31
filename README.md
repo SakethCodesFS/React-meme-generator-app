@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live link
+
+Open [http://localhost:3000](http://localhost:3000) to view the hosted application.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
